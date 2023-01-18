@@ -1,3 +1,3 @@
 # Data-Vis
 
-A small collection of some of the data visualisation experiments 
+A small collection of some of data visualisation experiments 
